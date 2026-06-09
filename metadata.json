@@ -1,0 +1,6 @@
+{
+  "name": "Health Track",
+  "description": "A personal health tracking app for all ages with privacy-first data storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
